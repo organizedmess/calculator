@@ -1,0 +1,32 @@
+.keys
+{   cursor: pointer;
+    border-width: 2px rgb(248, 181, 181) ;
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    background-color: rgb(197, 156, 156);
+    margin: 10px;
+    border-radius: 9px;
+    padding: 0px;
+    text-align: center;
+    box-shadow: 2px 1px 4px 5px rgba(32, 36, 28, 0.2);
+    font-size: large;
+}
+.cal{
+    box-shadow: 2px 1px 4px 5px rgba(32, 36, 28, 0.2);
+    margin-top:  150px;
+    margin-left: 550px;
+    width: 25vw;
+    background-color: rgb(247, 224, 224);
+    border-radius: 4%;
+}
+.screen{
+    background-color: aliceblue;
+    border-color: black !important; 
+    border: 3px solid;
+    background-color: rgb(254, 254, 254);
+    height: 5vh;
+    font-size:37px;
+    padding: 6px;
+    border-radius: 8px;
+}
